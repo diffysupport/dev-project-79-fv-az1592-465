@@ -1,5 +1,5 @@
 basic:
-    name: Baumbach-Abshire
+    name: 'Green, Kuhlman and Kunze'
     environments:
         production: 'https://google.com'
         staging: ''
